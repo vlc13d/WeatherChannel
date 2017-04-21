@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 21, 2017
 
 ### Student Name:  
-(First and Last Name)
+Valerie Camacho
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I enhanced an API-centric web application.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Use an API Key for authentication
+2. Parse JSON data from an HTTP response message
+3. Use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an
+HTTP Response
